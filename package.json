@@ -1,0 +1,15 @@
+{
+    "name": "com.ktgame.sirenix.odin",
+    "version": "1.0.3",
+    "displayName": "com.ktgame.sirenix.odin",
+    "description": "Odin Inspector & Serializer 3.3.1.14",
+    "unity": "2019.4",
+    "author": {
+        "name": "ktgame",
+        "email": "khanhquang0912qh@gmail.com",
+        "url": "https://github.com/KhanhTQ-hub"
+    },
+    "publishConfig": {
+        "registry": "http://3.25.115.5:4873"
+    }
+}
